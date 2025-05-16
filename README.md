@@ -40,9 +40,9 @@ npm install
 Execute o projeto (exemplo com expo)
 npm start
 
-🤝 Contribuições
+# 🤝 Contribuições
 Contribuições são bem-vindas! Sinta-se à vontade para abrir issues ou enviar pull requests com melhorias, correções ou novas ideias.
 
-📄 Licença
+# 📄 Licença
 Este projeto está licenciado sob a MIT License.
 
