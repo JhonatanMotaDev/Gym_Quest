@@ -26,21 +26,20 @@ Node.js (se houver backend) – API para integração com funcionalidades avanç
 
 Gráficos (D3.js, Chart.js ou similar) – visualização de progresso
 
-📦 Instalação
-bash
-Copiar
-Editar
-# Clone o repositório
+# 📦 Instalação
+
+Clone o repositório
 git clone https://github.com/seu-usuario/gymQuest.git
 
-# Acesse o diretório
+Acesse o diretório
 cd gymQuest
 
-# Instale as dependências (exemplo com npm)
+Instale as dependências (exemplo com npm)
 npm install
 
-# Execute o projeto (exemplo com expo)
+Execute o projeto (exemplo com expo)
 npm start
+
 🤝 Contribuições
 Contribuições são bem-vindas! Sinta-se à vontade para abrir issues ou enviar pull requests com melhorias, correções ou novas ideias.
 
