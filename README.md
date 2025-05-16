@@ -1,4 +1,4 @@
-# 💪 gymQuest
+# 💪 GymQuest
 gymQuest é um aplicativo inteligente voltado para entusiastas do fitness que desejam transformar seus treinos em uma verdadeira jornada de evolução. Combinando recursos de gamificação, acompanhamento de desempenho e personalização de treinos, o gymQuest torna a experiência na academia mais motivadora e eficiente.
 
 # 🚀 Funcionalidades Principais
